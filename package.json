@@ -1,0 +1,25 @@
+{
+  "name": "atividade3-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --watch * --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickcamargo7/atividade3-desktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickcamargo7/atividade3-desktop/issues"
+  },
+  "homepage": "https://github.com/patrickcamargo7/atividade3-desktop#readme",
+  "devDependencies": {
+    "electron": "^11.3.0",
+    "nodemon": "^2.0.7"
+  }
+}
